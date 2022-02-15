@@ -1,0 +1,9 @@
+{
+  "id_card_title": "CARTE D'IDENTITÉ",
+  "id_card_name": "Nom:",
+  "id_card_firstName": "Prenom:",
+  "id_card_birthDate": "Naissance:",
+  "id_card_birthDate_content": "15 janvier 1969",
+  "id_card_address": "Adresse:",
+  "id_card_address_content": "1, rue Sésame"
+}
