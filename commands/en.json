@@ -3,7 +3,7 @@
   "help_cmd_help": "help: Display this help",
   "help_cmd_clear": "clear: Clear the screen. Usage: <1>clear</1> or CTRL+L",
   "help_cmd_cat": "cat: Display file content. Usage: <1>cat file</1>",
-  "help_cmd_cd": "cd: Move in a specific folder. Usage: <1>cd /path/to/folder</1>",
+  "help_cmd_cd": "cd: Go into a specific folder. Usage: <1>cd /path/to/folder</1>",
   "help_cmd_clearLogs": "clearLogs: Clear log files. Usage: <1>clearLogs /var/log/ssh.log</1>",
   "help_cmd_csvBuilder": "csvBuilder: Merge files to rebuild a list. Usage: <1>csvBuilder file1 file2 … fileN</1>",
   "help_cmd_echo": "echo: Show a message on screen. Usage: <1>echo my message</1>",
