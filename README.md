@@ -2,6 +2,15 @@
 
 This repo contains translations of Extortion, you can find the game on [Steam](https://store.steampowered.com/app/1299430/Extortion/) and [Itch](https://elanis.itch.io/extortion).
 
+## Languages translations
+
+| Language   | achievements | commands | credits | files | menu | scripts | store |
+|------------|--------------|----------|---------|-------|------|---------|-------|
+| English    | 38/38        | 40/40    | 12/12   | 19/19 | 8/8  | 107/107 | 3/3   |
+| Francais   | 38/38        | 40/40    | 12/12   | 19/19 | 8/8  | 107/107 | 3/3   |
+| Italian    |  0/38        |  4/40    | 12/12   |  0/19 | 7/8  |  17/107 | 0/3   |
+| Svenska    |  0/38        |  0/40    | 12/12   | 19/19 | 7/8  | 100/107 | 0/3   |
+
 ## How to contribute ?
 
 ### Github (Recommended)
