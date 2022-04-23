@@ -6,10 +6,10 @@ This repo contains translations of Extortion, you can find the game on [Steam](h
 
 | Language   | achievements | commands | credits | files | menu | scripts | store |
 |------------|--------------|----------|---------|-------|------|---------|-------|
-| English    | 38/38        | 40/40    | 12/12   | 19/19 | 8/8  | 109/109 | 3/3   |
-| Francais   | 38/38        | 40/40    | 12/12   | 19/19 | 8/8  | 109/109 | 3/3   |
-| Italian    |  0/38        |  4/40    | 12/12   |  0/19 | 7/8  |  17/109 | 0/3   |
-| Svenska    |  0/38        | 40/40    | 12/12   | 19/19 | 8/8  | 109/109 | 0/3   |
+| English    | 38/38        | 40/40    | 13/13   | 19/19 | 8/8  | 109/109 | 3/3   |
+| Francais   | 38/38        | 40/40    | 13/13   | 19/19 | 8/8  | 109/109 | 3/3   |
+| Italian    |  0/38        |  4/40    | 13/13   |  0/19 | 7/8  |  17/109 | 0/3   |
+| Svenska    |  0/38        | 40/40    | 13/13   | 19/19 | 8/8  | 109/109 | 0/3   |
 
 ## How to contribute ?
 
