@@ -18,7 +18,7 @@
   "help_cmd_zombieAttack": "zombieAttack: Lance les zombies mis en place avec zombieMaker sur une cible. Utilisation: <1>zombieAttack adresse</1>",
   "help_cmd_zombieMaker": "zombieMaker: Crée un zombie en tâche de fond. Utilisation: <1>zombieMaker</1>",
   "unknown": "Commande inconnue, tapez help afin d'afficher la liste des commandes",
-  "wrong_usage": "Wrong number of arguments, usage: {command}",
+  "wrong_usage": "Mauvais nombre d'arguments, utilisation: {command}",
   "error_firewall": "Erreur: Un pare-feu vient de bloquer notre processus",
   "error_server": "Erreur: Serveur inconnu",
   "su_auth_failed": "su: Authentification échouée",
