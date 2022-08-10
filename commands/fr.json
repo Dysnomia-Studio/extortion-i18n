@@ -7,7 +7,7 @@
   "help_cmd_csvBuilder": "csvBuilder : Fusionne des fichiers afin de reconstruire une liste. Utilisation : <1>csvBuilder monFichier1 monFichier2 … monFichierN</1>",
   "help_cmd_cd": "cd : Se déplace dans un dossier. Utilisation : <1>cd /chemin/du/dossier</1>",
   "help_cmd_echo": "echo : Affiche un message. Utilisation : <1>echo mon message</1>",
-  "help_cmd_exit": "exit : Se déconnecte du server courant (ou retourne au menu principal). Utilisation : <1>exit</1>",
+  "help_cmd_exit": "exit : Se déconnecte du serveur courant (ou retourne au menu principal). Utilisation : <1>exit</1>",
   "help_cmd_firewallBreaker": "firewallBreaker : Désactive un pare-feu pour une courte durée. Utilisation : <1>firewallBreaker adresse</1>",
   "help_cmd_ls": "ls : Liste les fichiers et dossiers dans le repertoire courant. Utilisation : <1>ls /chemin/du/dossier</1>",
   "help_cmd_passwordBruteForce": "passwordBruteForce : Bruteforce une cible afin de récuperer un mot de passe. Utilisation : <1>passwordBruteForce utilisateur@adresse</1>",
