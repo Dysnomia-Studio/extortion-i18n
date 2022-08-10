@@ -34,7 +34,7 @@
   "firewall_broken": "Firewall disconnected for {time} seconds",
   "no_firewall": "Error: No firewall on target server",
   "csv_builder_complete": "Files build complete",
-  "csv_builder_failed": "Error: File build failed",
+  "csv_builder_failed": "Error: Files build failed",
   "zombie_created": "A zombie has been created",
   "zombie_already_exists": "Error: a zombie already exists on that server",
   "zombie_attack_started": "Zombies have begun attacking the target",
