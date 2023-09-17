@@ -7,5 +7,13 @@
   "music": "Musik",
   "scale": "Skalning",
   "menu_back": "Tillbaka till meny",
-  "settings-translations-link": "Delta i översättningar"
+  "settings-translations-link": "Delta i översättningar",
+
+  "save_list": "Lista över spelräddningar",
+  "no_save": "Inga sparade spel hittades.",
+  "last_played": "Senast spelat ",
+  "delete-save-title": "Ta bort det sparat spel",
+  "delete-save-message": "Är du säker på att du vill radera det här sparade spelet? Det kommer att gå förlorat för alltid (länge!).",
+  "yes": "Ja",
+  "no": "Nej"
 }

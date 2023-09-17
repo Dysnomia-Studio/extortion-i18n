@@ -7,5 +7,13 @@
   "music": "Musique",
   "scale": "Mise à l'échelle",
   "menu_back": "Retour au menu",
-  "settings-translations-link": "Participer aux traductions"
+  "settings-translations-link": "Participer aux traductions",
+
+  "save_list": "Liste des sauvegardes",
+  "no_save": "Aucune sauvegarde",
+  "last_played": "Joué pour la dernière fois",
+  "delete-save-title": "Supprimer la sauvegarde",
+  "delete-save-message": "Voulez-vous vraiment supprimer cette sauvegarde ? Elle sera perdue pour toujours (ce qui est une très longue période !)",
+  "yes": "Oui",
+  "no": "Non"
 }
