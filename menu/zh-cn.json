@@ -1,0 +1,19 @@
+{
+    "new_game": "新游戏",
+    "continue_game": "继续游戏",
+    "settings": "设置",
+    "quit_game": "退出游戏",
+    "sound": "音效",
+    "music": "音乐",
+    "scale": "缩放",
+    "menu_back": "退回主屏幕",
+    "settings-translations-link": "参与我们的翻译",
+  
+    "save_list": "存档列表",
+    "no_save": "没有现存的存档",
+    "last_played": "上次游玩",
+    "delete-save-title": "删除存档",
+    "delete-save-message": "你确定你想要删除这个存档吗？它将会永久（很长一段时间）丢失！",
+    "yes": "是",
+    "no": "否"
+  }
