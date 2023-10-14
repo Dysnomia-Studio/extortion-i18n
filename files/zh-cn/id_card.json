@@ -1,6 +1,6 @@
 {
   "id_card_title": "IDENTITY CARD/身份证",
-  "id_card_name": "Name/姓名:",
+  "id_card_name": "Last Name/姓:",
   "id_card_firstName": "First name/名:",
   "id_card_birthDate": "Birth date/出生日期:",
   "id_card_birthDate_content": "1969-01-15",
