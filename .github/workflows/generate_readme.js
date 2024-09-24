@@ -24,8 +24,8 @@ for(const language in config.languages) {
 				countersPerFilePerLanguage[file] = {};
 			}
 
-			countersPerFilePerLanguage[file][language] = Object.values(parsedContent).filter((x) => x !== '').length;
-			countersPerLanguage[language] += Object.values(parsedContent).filter((x) => x !== '').length;
+			countersPerFilePerLanguage[file][language] = Object.values(parsedContent).filter((x) => x !== '' && x !== '?').length;
+			countersPerLanguage[language] += Object.values(parsedContent).filter((x) => x !== '' && x !== '?').length;
 		} catch {}
 	}
 }
