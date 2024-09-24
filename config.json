@@ -1,4 +1,6 @@
 {
+	"title": "Extortion",
+	"description": "This repo contains translations of Extortion, you can find the game on [Steam](https://store.steampowered.com/app/1299430/Extortion/) and [Itch](https://elanis.itch.io/extortion).",
 	"languages": {
 		"ar":"العربية",
 		"bg":"български език",
@@ -37,5 +39,6 @@
 		"menu",
 		"scripts",
 		"store"
-	]
+	],
+	"steamTranslationThread": "https://steamcommunity.com/app/1299430/discussions/0/3040481757532344134/"
 }
