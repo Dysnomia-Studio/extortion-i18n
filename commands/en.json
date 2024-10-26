@@ -21,6 +21,7 @@
   "wrong_usage": "Wrong number of arguments, usage: {command}",
   "error_firewall": "Error: a firewall stopped our process",
   "error_server": "Error: unknown server",
+  "error_user": "Error: user not found",
   "su_auth_failed": "su: Authentication failure",
   "sudo_auth_failed": "sudo: user is not in the sudoers file. This incident will be reported.",
   "ssh_unknown_server": "Can't connect to the server at {server}",

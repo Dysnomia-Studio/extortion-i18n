@@ -21,6 +21,7 @@
   "wrong_usage": "Mauvais nombre d'arguments, utilisation : {command}",
   "error_firewall": "Erreur : Un pare-feu vient de bloquer notre processus",
   "error_server": "Erreur : Serveur inconnu",
+  "error_user": "Erreur: utilisateur inconnu",
   "su_auth_failed": "su : Authentification échouée",
   "sudo_auth_failed": "sudo : utilisateur non présent dans le fichier sudoers. Cet incident sera reporté.",
   "ssh_unknown_server": "Impossible d'établir une connexion avec le serveur à l'adresse {server}",
