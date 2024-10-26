@@ -16,5 +16,8 @@
   "delete-save-title": "Supprimer la sauvegarde",
   "delete-save-message": "Voulez-vous vraiment supprimer cette sauvegarde ? Elle sera perdue pour toujours (ce qui est une très longue période !)",
   "yes": "Oui",
-  "no": "Non"
+  "no": "Non",
+
+  "fullscreen": "Plein écran",
+  "windowed": "Fenêtré"
 }

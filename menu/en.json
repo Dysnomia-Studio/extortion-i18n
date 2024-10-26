@@ -16,5 +16,8 @@
   "delete-save-title": "Delete save",
   "delete-save-message": "Are you sure you want to delete this save ? It will be lost forever (A long time !)",
   "yes": "Yes",
-  "no": "No"
+  "no": "No",
+
+  "fullscreen": "Fullscreen",
+  "windowed": "Windowed"
 }
