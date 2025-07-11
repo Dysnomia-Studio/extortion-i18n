@@ -6,20 +6,20 @@ This repo contains translations of Extortion, you can find the game on [Steam](h
 
  |	Language |	Percentage |	achievements |	commands |	credits |	menu |	scripts |
  |	--- |	--- |	--- |	--- |	--- |	--- |	--- |
- |	English |	100% |	38/38 |	42/42 |	13/13 |	19/19 |	79/79 |
- |	Francais |	100% |	38/38 |	42/42 |	13/13 |	19/19 |	79/79 |
- |	Italiano |	20% |	0/38 |	4/42 |	13/13 |	7/19 |	14/79 |
- |	Svenska |	77% |	0/38 |	41/42 |	13/13 |	17/19 |	79/79 |
- |	简体中文 |	98% |	38/38 |	41/42 |	13/13 |	17/19 |	79/79 |
+ |	English |	100% |	42/42 |	42/42 |	13/13 |	19/19 |	79/79 |
+ |	Francais |	100% |	42/42 |	42/42 |	13/13 |	19/19 |	79/79 |
+ |	Italiano |	19% |	0/42 |	4/42 |	13/13 |	7/19 |	14/79 |
+ |	Svenska |	74% |	0/42 |	41/42 |	13/13 |	17/19 |	79/79 |
+ |	简体中文 |	95% |	38/42 |	41/42 |	13/13 |	17/19 |	79/79 |
 
 
- |	Language |	Percentage |	store |
- |	--- |	--- |	--- |
- |	English |	100% |	3/3 |
- |	Francais |	100% |	3/3 |
- |	Italiano |	20% |	0/3 |
- |	Svenska |	77% |	0/3 |
- |	简体中文 |	98% |	3/3 |
+ |	Language |	Percentage |	store |	wiki |
+ |	--- |	--- |	--- |	--- |
+ |	English |	100% |	3/3 |	4/4 |
+ |	Francais |	100% |	3/3 |	4/4 |
+ |	Italiano |	19% |	0/3 |	0/4 |
+ |	Svenska |	74% |	0/3 |	0/4 |
+ |	简体中文 |	95% |	3/3 |	0/4 |
 
 
 ## How to contribute ?
