@@ -1,6 +1,16 @@
 {
   "achievement-page-title": "Achievements",
+  "achievement-page-description": "The list of achievements of the game Extortion on Steam.",
   "chapter_index": "Chapter %number%",
   "achievement_in_story": "Unlocked while following the story.",
-  "achievement_exclusive_with": "This cannot be done in the same save as \"%achievementname%\"."
+  "achievement_exclusive_with": "This cannot be done in the same save as \"%achievementname%\".",
+  "servers-page-title": "Servers",
+  "servers-page-description": "The list of servers in the game Extortion on Steam.",
+  "servers-page-table-ip-address": "IP Address",
+  "servers-page-table-username": "Username",
+  "servers-page-table-password": "Password",
+  "servers-page-table-firewall": "Firewall",
+  "servers-page-table-firewall-none": "None",
+  "servers-page-table-firewall-reset-time-strict": "Raises again after %duration% seconds.",
+  "servers-page-table-firewall-reset-time-random": "Raises again after %min% to %max% seconds."
 }
