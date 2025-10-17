@@ -17,7 +17,7 @@
     "delete-save-title": "删除存档",
     "delete-save-message": "你确定你想要删除这个存档吗？它将会永久（很长一段时间）丢失！",
     "yes": "是",
-    "no": "否"
+    "no": "否",
     
     "fullscreen": "全屏",
     "windowed": "窗口"
