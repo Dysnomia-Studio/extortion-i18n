@@ -12,15 +12,15 @@ const __dirname = path.dirname(__filename);
 // Compute data
 const countersPerFilePerLanguage = {};
 const countersPerLanguage = {};
-for(const language in config.languages) {
+for (const language in config.languages) {
 	countersPerLanguage[language] = 0;
 
-	for(const file of config.files) {
+	for (const file of config.files) {
 		try {
 			const content = await fs.readFile(path.join(__dirname, `../../${file}/${language}.json`));
 			const parsedContent = JSON.parse(content);
 
-			if(!countersPerFilePerLanguage[file]) {
+			if (!countersPerFilePerLanguage[file]) {
 				countersPerFilePerLanguage[file] = {};
 			}
 
@@ -37,8 +37,8 @@ const tableFirstColumns = [
 	['---', '---'],
 ];
 
-for(const language in config.languages) {
-	if(countersPerLanguage[language] > 0) {
+for (const language in config.languages) {
+	if (countersPerLanguage[language] > 0) {
 		tableFirstColumns.push([
 			config.languages[language],
 			Math.round(countersPerLanguage[language] / countersPerLanguage['en'] * 100) + '%'
@@ -48,14 +48,14 @@ for(const language in config.languages) {
 
 console.log(tableFirstColumns);
 
-for(let i = 0; i < config.files.length; i++) {
+for (let i = 0; i < config.files.length; i++) {
 	const tableIndex = Math.floor(i / COLUMNS_PER_TABLE);
-	if(!tableList[tableIndex]) {
+	if (!tableList[tableIndex]) {
 		tableList[tableIndex] = JSON.parse(JSON.stringify(tableFirstColumns));
 	}
 
 	const fileName = config.files[i];
-	if(!countersPerFilePerLanguage[fileName]) {
+	if (!countersPerFilePerLanguage[fileName]) {
 		continue;
 	}
 
@@ -63,11 +63,11 @@ for(let i = 0; i < config.files.length; i++) {
 	tableList[tableIndex][1].push('---');
 
 	let languageIndex = 0;
-	for(const language in config.languages) {
-		if(countersPerLanguage[language] > 0) {
+	for (const language in config.languages) {
+		if (countersPerLanguage[language] > 0) {
 			let counter = countersPerFilePerLanguage[fileName][language] || 0;
 
-			console.log(countersPerFilePerLanguage[fileName]);
+			console.log(fileName, countersPerFilePerLanguage[fileName]);
 
 			tableList[tableIndex][languageIndex + 2].push(
 				`${counter}/${countersPerFilePerLanguage[fileName]['en']}`
@@ -90,8 +90,8 @@ ${config.description}
 
 console.log(tableList);
 
-for(const table of tableList) {
-	for(const line of table) {
+for (const table of tableList) {
+	for (const line of table) {
 		console.log(line);
 		README_Content += ['\n', ...line].join(' |\t') + ' |';
 	}
@@ -118,8 +118,8 @@ Participate on the official [Translation Thread on Steam](${config.steamTranslat
 ## Languages without translation yet
 `;
 
-for(const language in config.languages) {
-	if(countersPerLanguage[language] === 0) {
+for (const language in config.languages) {
+	if (countersPerLanguage[language] === 0) {
 		README_Content += `- ${language} : ${config.languages[language]}\n`;
 	}
 }
