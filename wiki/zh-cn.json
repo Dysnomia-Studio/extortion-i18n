@@ -1,0 +1,16 @@
+{
+  "achievement-page-title": "成就",
+  "achievement-page-description": "《Extortion》在 Steam 平台上的游戏成就列表",
+  "chapter_index": "第 %number% 章",
+  "achievement_in_story": "在剧情推进过程中解锁",
+  "achievement_exclusive_with": "无法与 \"%achievementname%\"在同一存档中完成",
+  "servers-page-title": "服务器",
+  "servers-page-description": "《Extortion》在 Steam 平台中的服务器列表",
+  "servers-page-table-ip-address": "IP地址",
+  "servers-page-table-username": "用户名",
+  "servers-page-table-password": "密码",
+  "servers-page-table-firewall": "防火墙",
+  "servers-page-table-firewall-none": "无",
+  "servers-page-table-firewall-reset-time-strict": "在 %duration% 秒后重启",
+  "servers-page-table-firewall-reset-time-random": "在 %min% 到 %max% 秒后重启."
+}

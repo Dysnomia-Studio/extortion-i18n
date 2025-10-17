@@ -21,6 +21,7 @@
     "wrong_usage": "参数数量错误，示例：{command}",
     "error_firewall": "错误：防火墙终止了进程",
     "error_server": "错误：未知的服务器",
+    "error_user": "错误：未找到用户",
     "su_auth_failed": "su: 鉴权失败",
     "sudo_auth_failed": "sudo: 用户不在sudoers文件中。该事件会被上报。",
     "ssh_unknown_server": "不能与{server}建立连接",
